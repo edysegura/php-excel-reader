@@ -12,7 +12,7 @@
 	Componente em PHP para leitura de arquivos excel. 
 	Para mais detalhes veja o código fonte.<br />
 	Ou se preferir faça o 
-	<a href="http://files.edysegura.com/labs/php-excel-reader.zip">downlaod</a> deste 
+	<a href="http://files.edysegura.com/labs/php-excel-reader.zip">download</a> deste 
 	<a href="http://files.edysegura.com/labs/php-excel-reader.zip">exemplo</a>.
 </p>
 
